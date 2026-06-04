@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.form{
+    width: 50vw;
+    height: 60vh;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    margin: 90px auto;
+    background-color: azure;
+}
+    

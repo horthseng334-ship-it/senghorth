@@ -1,0 +1,23 @@
+.hearder{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    text-shadow: rgb(90, 163, 161);
+    text-decoration: underline;
+}
+.box{
+    width: 30vw;
+    height: 70vh;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 5px red;
+}
+img{
+    width: 100%;
+    height: 60%;
+    border: 2px solid red;
+    object-fit: cover;
+    background-size: cover;
+}

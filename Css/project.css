@@ -1,0 +1,19 @@
+.navbar{
+    width: 99vw;
+    height: 10vh;
+    background-color: rgb(78, 76, 76);
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+}
+.item_name{
+    list-style-type: none;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.item{
+    justify-content: end;
+    display: flex;
+}

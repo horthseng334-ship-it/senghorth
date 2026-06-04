@@ -1,0 +1,49 @@
+.body{
+    width: 30vw;
+    height: 80vh;
+    border: 1px solid black;
+    margin: 90px auto;
+    padding: 30px
+}
+.card{
+    width: 100%;
+    height: 100%;
+    border: 2px solid gray;
+    margin: 2px auto;
+    border-radius: 15px;
+     overflow: hidden;
+}
+.box_img{
+    width: 100%;
+    height: 60%;
+    border: 2px solid rgb(251, 251, 253);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.box_img > img{
+    width: 90%;
+    height: 100%;
+    margin: 20px auto;
+}
+.icon{
+    color: red;
+}
+.price{
+    text-decoration: line-through;
+    color: rgb(185, 178, 178);
+}
+.title{
+    font-size: 20px;
+}
+.title > span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn{
+    width: 40%;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+    background-color: blue;
+    margin-left: 200px;
+}
